@@ -1,2 +1,0 @@
-# frontend-starter
-Frontend Starter
